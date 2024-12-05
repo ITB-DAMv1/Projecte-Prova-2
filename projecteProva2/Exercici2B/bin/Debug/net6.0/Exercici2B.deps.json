@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercici2B/1.0.0": {
+        "runtime": {
+          "Exercici2B.dll": {}
+        }
+      },
+      "T2.PP2 codis/1.0.0": {
+        "runtime": {
+          "T2.PP2 codis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercici2B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "T2.PP2 codis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

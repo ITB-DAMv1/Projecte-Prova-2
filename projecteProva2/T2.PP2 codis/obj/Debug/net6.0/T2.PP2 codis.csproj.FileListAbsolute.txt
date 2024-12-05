@@ -1,0 +1,12 @@
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\T2.PP2 codis\obj\Debug\net6.0\T2.PP2 codis.csproj.AssemblyReference.cache
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\T2.PP2 codis\obj\Debug\net6.0\T2.PP2 codis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\T2.PP2 codis\obj\Debug\net6.0\T2.PP2 codis.AssemblyInfoInputs.cache
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\T2.PP2 codis\obj\Debug\net6.0\T2.PP2 codis.AssemblyInfo.cs
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\T2.PP2 codis\obj\Debug\net6.0\T2.PP2 codis.csproj.CoreCompileInputs.cache
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\T2.PP2 codis\bin\Debug\net6.0\T2.PP2 codis.deps.json
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\T2.PP2 codis\bin\Debug\net6.0\T2.PP2 codis.dll
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\T2.PP2 codis\bin\Debug\net6.0\T2.PP2 codis.pdb
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\T2.PP2 codis\obj\Debug\net6.0\T2.PP2 codis.dll
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\T2.PP2 codis\obj\Debug\net6.0\refint\T2.PP2 codis.dll
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\T2.PP2 codis\obj\Debug\net6.0\T2.PP2 codis.pdb
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\T2.PP2 codis\obj\Debug\net6.0\ref\T2.PP2 codis.dll
