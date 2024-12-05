@@ -1,0 +1,18 @@
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\Exercici2B\bin\Debug\net6.0\Exercici2B.exe
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\Exercici2B\bin\Debug\net6.0\Exercici2B.deps.json
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\Exercici2B\bin\Debug\net6.0\Exercici2B.runtimeconfig.json
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\Exercici2B\bin\Debug\net6.0\Exercici2B.dll
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\Exercici2B\bin\Debug\net6.0\Exercici2B.pdb
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\Exercici2B\bin\Debug\net6.0\T2.PP2 codis.dll
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\Exercici2B\bin\Debug\net6.0\T2.PP2 codis.pdb
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\Exercici2B\obj\Debug\net6.0\Exercici2B.csproj.AssemblyReference.cache
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\Exercici2B\obj\Debug\net6.0\Exercici2B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\Exercici2B\obj\Debug\net6.0\Exercici2B.AssemblyInfoInputs.cache
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\Exercici2B\obj\Debug\net6.0\Exercici2B.AssemblyInfo.cs
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\Exercici2B\obj\Debug\net6.0\Exercici2B.csproj.CoreCompileInputs.cache
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\Exercici2B\obj\Debug\net6.0\Exercici2B.csproj.CopyComplete
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\Exercici2B\obj\Debug\net6.0\Exercici2B.dll
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\Exercici2B\obj\Debug\net6.0\refint\Exercici2B.dll
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\Exercici2B\obj\Debug\net6.0\Exercici2B.pdb
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\Exercici2B\obj\Debug\net6.0\Exercici2B.genruntimeconfig.cache
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\Exercici2B\obj\Debug\net6.0\ref\Exercici2B.dll

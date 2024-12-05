@@ -1,0 +1,18 @@
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\projecteProva2\bin\Debug\net6.0\projecteProva2.exe
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\projecteProva2\bin\Debug\net6.0\projecteProva2.deps.json
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\projecteProva2\bin\Debug\net6.0\projecteProva2.runtimeconfig.json
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\projecteProva2\bin\Debug\net6.0\projecteProva2.dll
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\projecteProva2\bin\Debug\net6.0\projecteProva2.pdb
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\projecteProva2\obj\Debug\net6.0\projecteProva2.csproj.AssemblyReference.cache
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\projecteProva2\obj\Debug\net6.0\projecteProva2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\projecteProva2\obj\Debug\net6.0\projecteProva2.AssemblyInfoInputs.cache
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\projecteProva2\obj\Debug\net6.0\projecteProva2.AssemblyInfo.cs
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\projecteProva2\obj\Debug\net6.0\projecteProva2.csproj.CoreCompileInputs.cache
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\projecteProva2\obj\Debug\net6.0\projecteProva2.dll
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\projecteProva2\obj\Debug\net6.0\refint\projecteProva2.dll
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\projecteProva2\obj\Debug\net6.0\projecteProva2.pdb
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\projecteProva2\obj\Debug\net6.0\projecteProva2.genruntimeconfig.cache
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\projecteProva2\obj\Debug\net6.0\ref\projecteProva2.dll
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\projecteProva2\bin\Debug\net6.0\T2.PP2 codis.dll
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\projecteProva2\bin\Debug\net6.0\T2.PP2 codis.pdb
+C:\Users\argom\Documents\ProgramacionYeray\Projecte-Prova-2\projecteProva2\projecteProva2\obj\Debug\net6.0\projecteProva2.csproj.CopyComplete

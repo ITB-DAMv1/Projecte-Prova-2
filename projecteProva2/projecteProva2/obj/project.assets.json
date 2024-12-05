@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "T2.PP2 codis/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/T2.PP2 codis.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/T2.PP2 codis.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "T2.PP2 codis/1.0.0": {
+      "type": "project",
+      "path": "../T2.PP2 codis/T2.PP2 codis.csproj",
+      "msbuildProject": "../T2.PP2 codis/T2.PP2 codis.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "T2.PP2 codis >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\argom\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\argom\\Documents\\ProgramacionYeray\\Projecte-Prova-2\\projecteProva2\\T2.PP2 codis\\T2.PP2 codis.csproj": {
+              "projectPath": "C:\\Users\\argom\\Documents\\ProgramacionYeray\\Projecte-Prova-2\\projecteProva2\\T2.PP2 codis\\T2.PP2 codis.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
